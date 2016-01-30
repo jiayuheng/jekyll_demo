@@ -4,7 +4,7 @@ title: TEST MAKEDONW
 ---
 <h2>{{ page.title }}</h2>
 #### print "hello world!"
-
+<P>
 # jia
 
 ## jiadd
@@ -30,7 +30,7 @@ title: TEST MAKEDONW
 '
 print("hello World!\n");
 '
-
+</P>
 
 
 <p>我的第一篇文章</p>
