@@ -11,5 +11,27 @@ title: TEST MAKEDONW
 
 ### jiao
 
+> This is reference
+
+#### insert some links:
+
+[Google](www.google.com)
+
+#### This is table:
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+#### This is code:
+
+'
+print("hello World!\n");
+'
+
+
+
 <p>我的第一篇文章</p>
 <p>{{ page.date | date_to_string }}</p>
